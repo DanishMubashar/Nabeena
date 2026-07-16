@@ -1,6 +1,7 @@
 streamlit
 python-dotenv
 ultralytics
+opencv-python
 opencv-python-headless
 pillow
 numpy
