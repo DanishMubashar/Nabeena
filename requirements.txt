@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+ultralytics
+opencv-python-headless
+pillow
+numpy
+edge-tts
+langchain-google-genai
+langchain-core
+ 
